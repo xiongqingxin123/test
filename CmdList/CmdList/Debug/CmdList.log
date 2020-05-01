@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  CmdList.cpp
+  CmdProc.cpp
+  List.cpp
+  MyIO.cpp
+  MyString.cpp
+  Person.cpp
+  Student.cpp
+  StudentCmd.cpp
+  正在生成代码...
+  CmdList.vcxproj -> F:\Myproject\CmdList\Debug\CmdList.exe
